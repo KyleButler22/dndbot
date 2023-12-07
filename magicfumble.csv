@@ -1,0 +1,100 @@
+1,A Sad Fizzle,You hear a sad trombone as your spell fails to go off normally. No additional effects
+2,Bad Aim,You hear a sad trombone as your spell fails to go off normally. No additional effects
+3,Bad Aim,You hear a sad trombone as your spell fails to go off normally. No additional effects
+4,Bad Aim,You hear a sad trombone as your spell fails to go off normally. No additional effects
+5,Bad Aim,You hear a sad trombone as your spell fails to go off normally. No additional effects
+6,Bad Aim,You hear a sad trombone as your spell fails to go off normally. No additional effects
+7,Bad Aim,You hear a sad trombone as your spell fails to go off normally. No additional effects
+8,Bad Aim,You hear a sad trombone as your spell fails to go off normally. No additional effects
+9,Bad Aim,You hear a sad trombone as your spell fails to go off normally. No additional effects
+10,Bad Aim,You hear a sad trombone as your spell fails to go off normally. No additional effects
+11,Unintended Target,Your spell hits the creature closest to the target
+12,Unintended Target,Your spell hits the creature closest to the target
+13,Unintended Target,Your spell hits the creature closest to the target
+14,Unintended Target,Your spell hits the creature closest to the target
+15,Unintended Target,Your spell hits the creature closest to the target
+16,Unintended Target,Your spell hits the creature closest to the target
+17,Unintended Target,Your spell hits the creature closest to the target
+18,Unintended Target,Your spell hits the creature closest to the target
+19,Unintended Target,Your spell hits the creature closest to the target
+20,Unintended Target,Your spell hits the creature closest to the target
+21,Backfire,A burst of magical energy deals 1d6 damage to the caster
+22,Backfire,A burst of magical energy deals 1d6 damage to the caster
+23,Backfire,A burst of magical energy deals 1d6 damage to the caster
+24,Backfire,A burst of magical energy deals 1d6 damage to the caster
+25,Backfire,A burst of magical energy deals 1d6 damage to the caster
+26,Backfire,A burst of magical energy deals 1d6 damage to the caster
+27,Backfire,A burst of magical energy deals 1d6 damage to the caster
+28,Backfire,A burst of magical energy deals 1d6 damage to the caster
+29,Backfire,A burst of magical energy deals 1d6 damage to the caster
+30,Backfire,A burst of magical energy deals 1d6 damage to the caster
+31,Opposite Day,"Your spell has the opposite effect on the target (damage heals, debuffs buff)"
+32,Opposite Day,"Your spell has the opposite effect on the target (damage heals, debuffs buff)"
+33,Opposite Day,"Your spell has the opposite effect on the target (damage heals, debuffs buff)"
+34,Opposite Day,"Your spell has the opposite effect on the target (damage heals, debuffs buff)"
+35,Opposite Day,"Your spell has the opposite effect on the target (damage heals, debuffs buff)"
+36,Opposite Day,"Your spell has the opposite effect on the target (damage heals, debuffs buff)"
+37,Opposite Day,"Your spell has the opposite effect on the target (damage heals, debuffs buff)"
+38,Opposite Day,"Your spell has the opposite effect on the target (damage heals, debuffs buff)"
+39,Opposite Day,"Your spell has the opposite effect on the target (damage heals, debuffs buff)"
+40,Opposite Day,"Your spell has the opposite effect on the target (damage heals, debuffs buff)"
+41,Not There! There!,Your spell goes off in a random location at the same range
+42,Not There! There!,Your spell goes off in a random location at the same range
+43,Not There! There!,Your spell goes off in a random location at the same range
+44,Not There! There!,Your spell goes off in a random location at the same range
+45,Not There! There!,Your spell goes off in a random location at the same range
+46,Not There! There!,Your spell goes off in a random location at the same range
+47,Not There! There!,Your spell goes off in a random location at the same range
+48,Not There! There!,Your spell goes off in a random location at the same range
+49,Not There! There!,Your spell goes off in a random location at the same range
+50,Not There! There!,Your spell goes off in a random location at the same range
+51,Delayed Effect,Your spell goes off as normal. 1d12 hours from now.
+52,Delayed Effect,Your spell goes off as normal. 1d12 hours from now.
+53,Delayed Effect,Your spell goes off as normal. 1d12 hours from now.
+54,Delayed Effect,Your spell goes off as normal. 1d12 hours from now.
+55,Delayed Effect,Your spell goes off as normal. 1d12 hours from now.
+56,Delayed Effect,Your spell goes off as normal. 1d12 hours from now.
+57,Delayed Effect,Your spell goes off as normal. 1d12 hours from now.
+58,Delayed Effect,Your spell goes off as normal. 1d12 hours from now.
+59,Delayed Effect,Your spell goes off as normal. 1d12 hours from now.
+60,Delayed Effect,Your spell goes off as normal. 1d12 hours from now.
+61,Vertigo,You are sickened for 1d4 rounds
+62,Vertigo,You are sickened for 1d4 rounds
+63,Vertigo,You are sickened for 1d4 rounds
+64,Vertigo,You are sickened for 1d4 rounds
+65,Vertigo,You are sickened for 1d4 rounds
+66,Vertigo,You are sickened for 1d4 rounds
+67,Vertigo,You are sickened for 1d4 rounds
+68,Vertigo,You are sickened for 1d4 rounds
+69,Premature Casting,Your spell goes off earlier than expected and catches everyone off guard. Spell fails. You are stunned for 1 round.
+70,Vertigo,You are sickened for 1d4 rounds
+71,Mind Drain,Take 1d4 INT Damage
+72,Mind Drain,Take 1d4 INT Damage
+73,Mind Drain,Take 1d4 INT Damage
+74,Mind Drain,Take 1d4 INT Damage
+75,Mind Drain,Take 1d4 WIS Damage
+76,Mind Drain,Take 1d4 WIS Damage
+77,Mind Drain,Take 1d4 WIS Damage
+78,Mind Drain,Take 1d4 CHA Damage
+79,Mind Drain,Take 1d4 CHA Damage
+80,Mind Drain,Take 1d4 CHA Damage
+81,Power Drain,Lose one prepared spell / spell slot of the highest available level.
+82,Power Drain,Lose one prepared spell / spell slot of the highest available level.
+83,Power Drain,Lose one prepared spell / spell slot of the highest available level.
+84,Power Drain,Lose one prepared spell / spell slot of the highest available level.
+85,Power Drain,Lose one prepared spell / spell slot of the highest available level.
+86,Power Drain,Lose one prepared spell / spell slot of the highest available level.
+87,Power Drain,Lose one prepared spell / spell slot of the highest available level.
+88,Power Drain,Lose one prepared spell / spell slot of the highest available level.
+89,Power Drain,Lose one prepared spell / spell slot of the highest available level.
+90,Power Drain,Lose one prepared spell / spell slot of the highest available level.
+91,Did You Set It To Wumbo?,You shrink one size category for 1d4 rounds
+92,Did You Set It To Wumbo?,You shrink one size category for 1d4 rounds
+93,Did You Set It To Wumbo?,You shrink one size category for 1d4 rounds
+94,Did You Set It To Wumbo?,You shrink one size category for 1d4 rounds
+95,How Did I Get Here?,You are teleported to the Astral Plane for 1d4 rounds.
+96,How Did I Get Here?,You are teleported to the Astral Plane for 1d4 rounds.
+97,How Did I Get Here?,You are teleported to the Astral Plane for 1d4 rounds.
+98,How Did I Get Here?,You are teleported to the Astral Plane for 1d4 rounds.
+99,Wait....what?,You are confused for 1d4 rounds
+100,She Turned Me Into a Newt!,"But you'll get better. You are transformed into a newt for 1d4 rounds. Use the ""Common Lizard"" stat block."

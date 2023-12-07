@@ -1,0 +1,26 @@
+cmb, BAB+STR
+cmd, 10+BAB+STR+DEX+size/misc modifiers
+coupdegrace, Autohit and crit. If the defender survives must make a DC10 + damage dealt Fortitude save or die.
+dying, DC10+(negative health) CON check. -1 hp per round
+dazed, Dazed creature can take no actions but takes no penalty to AC
+dazzled, -1 to all attack rolls and sight based perception checks
+deafened, -4 on initiative. Autofail sound based perception checks. -4 on opposed perception checks. 20% fail chance on spells with verbal components.
+disabled, Single move or standard action per round. Move at half speed. -1 hp per standard action (after action is completed)
+entangled, Move at half speed. Cannot run or charge. -2 on all attack rolls. -4 to DEX. DC 15+spell level Concentration check to cast spells.
+exhausted, Move at half speed. Cannon run or charge. -6 to STR and DEX
+fascinated, Take no actions. -4 on skill checks. Roll new saving throw on any potential threat. Obvious threat breaks the effect. Ally may shake a fascinated creature free as a standard action.
+fatigued, Cannot run or charge. -2 to STR and DEX.
+frightened, Must flee from source if possible. -2 to attack rolls saving throws skill checks and ability checks.
+grappled, Cannot move. -4 to DEX. -2 on all attack rolls and combat manuevers. No actions that use 2 hands. No AoO's. DC10+ grappler's CMB + spell level to cast.
+helpless, DEX=0. +4 to Melee attacks against.
+invisible, +2 on attack rolls against sighted opponents. Ignore opponent's DEX bonus to AC.
+nauseated, Unable to attack cast spells concentrate or do anything else requiring attention. Single move action per turn.
+panicked, Drop everything. Flee at top speed from source. No other actions can be taken. -2 on all saving throws skill checks and ability checks. If cornered or unable to flee, must use Total Defense.
+paralyzed, Unable to move or act. DEX and STR = 0. Helpless. Can take purely mental actions.
+petrified, Turned to stone and considered unconcious.
+pinned, Denied DEX bonus to AC. -4 to AC. Cannot cast spells with somatic or material components. DC10+ grappler's CMB + spell level Concentration check to cast. Can make Escape Artist check but cannot attack.
+prone, -4 on melee attack rolls and cannot use ranged weapons. +4 AC against ranged attacks. -4 AC against melee. Standing up is a move action that provokes.
+shaken, -2 on all attack rolls saving throws skill checks and ability checks
+sickened, -2 on all attack rolls weapon damage rolls saving throws skill checks and ability checks
+staggered, Single move or standard action per round. May take free swift or immediate actions.
+stunned, Drop everything. Cannot take any actions. -2 to AC and lose DEX to AC. Attackers receive +4 on combat manuever rolls.

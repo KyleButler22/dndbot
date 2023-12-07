@@ -1,0 +1,100 @@
+1,Bad Aim,You miss wildly. No additional effects.
+2,Bad Aim,You miss wildly. No additional effects.
+3,Bad Aim,You miss wildly. No additional effects.
+4,Bad Aim,You miss wildly. No additional effects.
+5,Bad Aim,You miss wildly. No additional effects.
+6,Bad Aim,You miss wildly. No additional effects.
+7,Bad Aim,You miss wildly. No additional effects.
+8,Bad Aim,You miss wildly. No additional effects.
+9,Bad Aim,You miss wildly. No additional effects.
+10,Bad Aim,You miss wildly. No additional effects.
+11,Unintended Target,Reroll your attack against the creature closest to the target
+12,Unintended Target,Reroll your attack against the creature closest to the target
+13,Unintended Target,Reroll your attack against the creature closest to the target
+14,Unintended Target,Reroll your attack against the creature closest to the target
+15,Unintended Target,Reroll your attack against the creature closest to the target
+16,Unintended Target,Reroll your attack against the creature closest to the target
+17,Unintended Target,Reroll your attack against the creature closest to the target
+18,Unintended Target,Reroll your attack against the creature closest to the target
+19,Unintended Target,Reroll your attack against the creature closest to the target
+20,Unintended Target,Reroll your attack against the creature closest to the target
+21,Firmly Grasp It!,You drop your weapon
+22,Firmly Grasp It!,You drop your weapon
+23,Firmly Grasp It!,You drop your weapon
+24,Firmly Grasp It!,You drop your weapon
+25,Firmly Grasp It!,You drop your weapon
+26,Firmly Grasp It!,You drop your weapon
+27,Firmly Grasp It!,You drop your weapon
+28,Firmly Grasp It!,You drop your weapon
+29,Firmly Grasp It!,You drop your weapon
+30,Firmly Grasp It!,You drop your weapon
+31,Lost Focus,-4 to all attacks for the next round
+32,Lost Focus,-4 to all attacks for the next round
+33,Lost Focus,-4 to all attacks for the next round
+34,Lost Focus,-4 to all attacks for the next round
+35,Lost Focus,-4 to all attacks for the next round
+36,Lost Focus,-4 to all attacks for the next round
+37,Lost Focus,-4 to all attacks for the next round
+38,Lost Focus,-4 to all attacks for the next round
+39,Lost Focus,-4 to all attacks for the next round
+40,Lost Focus,-4 to all attacks for the next round
+41,Left Yourself Wide Open!,Flat footed for 1d4 rounds
+42,Left Yourself Wide Open!,Flat footed for 1d4 rounds
+43,Left Yourself Wide Open!,Flat footed for 1d4 rounds
+44,Left Yourself Wide Open!,Flat footed for 1d4 rounds
+45,Left Yourself Wide Open!,Flat footed for 1d4 rounds
+46,Left Yourself Wide Open!,Flat footed for 1d4 rounds
+47,Left Yourself Wide Open!,Flat footed for 1d4 rounds
+48,Left Yourself Wide Open!,Flat footed for 1d4 rounds
+49,Left Yourself Wide Open!,Flat footed for 1d4 rounds
+50,Left Yourself Wide Open!,Flat footed for 1d4 rounds
+51,How Did You Miss That?,Stunned for 1 round
+52,How Did You Miss That?,Stunned for 1 round
+53,How Did You Miss That?,Stunned for 1 round
+54,How Did You Miss That?,Stunned for 1 round
+55,How Did You Miss That?,Stunned for 1 round
+56,How Did You Miss That?,Stunned for 1 round
+57,How Did You Miss That?,Stunned for 1 round
+58,How Did You Miss That?,Stunned for 1 round
+59,How Did You Miss That?,Stunned for 1 round
+60,How Did You Miss That?,Stunned for 1 round
+61,In The Line of Fire,You hit the nearest ally
+62,In The Line of Fire,You hit the nearest ally
+63,In The Line of Fire,You hit the nearest ally
+64,In The Line of Fire,You hit the nearest ally
+65,In The Line of Fire,You hit the nearest ally
+66,In The Line of Fire,You hit the nearest ally
+67,In The Line of Fire,You hit the nearest ally
+68,In The Line of Fire,You hit the nearest ally
+69,Nice...,Your attack ricochets off your enemy and hits you. Normal damage to you and your target.
+70,In The Line of Fire,You hit the nearest ally
+71,Weapon Jam,Your weapon becomes broken or stuck until you spend one round to fix it.
+72,Weapon Jam,Your weapon becomes broken or stuck until you spend one round to fix it.
+73,Weapon Jam,Your weapon becomes broken or stuck until you spend one round to fix it.
+74,Weapon Jam,Your weapon becomes broken or stuck until you spend one round to fix it.
+75,Weapon Jam,Your weapon becomes broken or stuck until you spend one round to fix it.
+76,Weapon Jam,Your weapon becomes broken or stuck until you spend one round to fix it.
+77,Weapon Jam,Your weapon becomes broken or stuck until you spend one round to fix it.
+78,Weapon Jam,Your weapon becomes broken or stuck until you spend one round to fix it.
+79,Weapon Jam,Your weapon becomes broken or stuck until you spend one round to fix it.
+80,Weapon Jam,Your weapon becomes broken or stuck until you spend one round to fix it.
+81,Didn't Expect the Recoil!,You are knocked back one space and fall prone
+82,Didn't Expect the Recoil!,You are knocked back one space and fall prone
+83,Didn't Expect the Recoil!,You are knocked back one space and fall prone
+84,Didn't Expect the Recoil!,You are knocked back one space and fall prone
+85,Didn't Expect the Recoil!,You are knocked back one space and fall prone
+86,Didn't Expect the Recoil!,You are knocked back one space and fall prone
+87,Didn't Expect the Recoil!,You are knocked back one space and fall prone
+88,Didn't Expect the Recoil!,You are knocked back one space and fall prone
+89,Didn't Expect the Recoil!,You are knocked back one space and fall prone
+90,Didn't Expect the Recoil!,You are knocked back one space and fall prone
+91,Overcompensate,Any targets with cover get an additional +4 AC bonus for 1 round
+92,Overcompensate,Any targets with cover get an additional +4 AC bonus for 1 round
+93,Overcompensate,Any targets with cover get an additional +4 AC bonus for 1 round
+94,Overcompensate,Any targets with cover get an additional +4 AC bonus for 1 round
+95,Pulled Muscle,"You'll feel that tomorrow, take 1d4 DEX Damage"
+96,Pulled Muscle,"You'll feel that tomorrow, take 1d4 DEX Damage"
+97,Pulled Muscle,"You'll feel that tomorrow, take 1d4 DEX Damage"
+98,Pulled Muscle,"You'll feel that tomorrow, take 1d4 DEX Damage"
+99,Wait....what?,You are confused for 1d4 rounds
+100,Bullseye!,Your shot ricochets and hits you near the eyes. Normal damage to self and blind for 1d4 rounds.
